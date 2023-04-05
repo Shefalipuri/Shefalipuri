@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Shefalipuri
 - 👀 I’m interested in developing software tools.
-- 🌱 I’m currently learning python,frontend web development tools.
+- 🌱 I’m currently learning frontend development.
 - 💞️ I’m looking to collaborate on any startup projects with some guidance. 
 - 📫 Reach me at 19.1shefali@gmail.com
 
